@@ -66,13 +66,13 @@ $ git clone https://github.com/denismend/nlw03-happy.git
 
 ```bash
 # Go to server folder
-$ cd nlw03-happy/server
+$ cd nlw03-happy/backend
 
 # Install Dependencies
 $ yarn install
 
 # Run Aplication
-$ yarn start
+$ yarn dev
 ```
 Access API at http://localhost:3333/
 
@@ -148,4 +148,4 @@ This project is under the [MIT license](./LICENSE).
 Give a ⭐️ if this project helped you!
 
 # :ballot_box_with_check: To do list
-** New features: https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970
+** New features: https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4

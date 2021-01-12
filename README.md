@@ -4,17 +4,17 @@
 
 <p align="center">	
    <a href="https://linkedin.com/in/denis-ladeira-814365115/">
-      <img alt="Denis Mendonça Ladeira" src="https://img.shields.io/badge/-DenisLadeira-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Denis Mendonça Ladeira" src="https://img.shields.io/badge/-DenisLadeira-34bdeb?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/denismend/nlw03-happy?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/denismend/nlw03-happy?color=34bdeb">
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
-    <img src="https://img.shields.io/badge/Proffy-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+    <img src="https://img.shields.io/badge/Happy-NLW 3.0-34bdeb?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   <a href="https://github.com/denismend/nlw-02-proffy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/denismend/nlw03-happy?color=774DD6">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/denismend/nlw03-happy?color=34bdeb">
   </a> 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-34bdeb">
 </p>
 
 <p align="center">
